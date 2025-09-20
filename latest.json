@@ -3,7 +3,7 @@
     "notes": "Fix some bugs and improve performance.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFlXNmZCVjFFcThkblhHTll5bEdGVS9EQlp5VHF1L3BVNWhEOThncFpkSHNXZnlrK1p5d0lGTUMyS0p0MzJlVzBiaUN5OFkzUzB6NDZ5dDhGcGJWZ2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4Mzc3MzU2CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjEuN194NjQtc2V0dXAuZXhlCkIyVGdIQm1ySmhPclpsL1pNcEplVHhEckVZczREVVR2Qjd4RGphNjNCWW1WTC9FcXZwK1dmRlBXTlhtaSs4dXhUODRQRyt3U0RuN09kSTduWlp4NkNnPT0K",
             "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.1.7/Cyberking_Server_0.1.7_x64-setup.exe"
         }
     }
