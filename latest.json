@@ -1,10 +1,10 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "notes": "Fix some bugs and improve performance.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFkwQ3RTK1NCeCtnWkNzSmFscEJaSDdpaGt6UEt0QTJJeVRUMUxmVDM3U3kwejdVemZIMGJXcHBhc2tOczMvKzJwK2hpbGdQL25vTVNvdUJSa3pOV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzMxNTg3CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjEuOF94NjQtc2V0dXAuZXhlCituSzhzOXFJTnozMEZFSGlBc0ZsalUyZGdNOEZPVDExTCtHUTNNRkZpSEhTZU1BeGxZLzlMdTBORVJsSlBKaW0wTkFFV1hHK1pHOEltT3FQTHVab0RRPT0K",
-            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.1.8/Cyberking_Server_0.1.8_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFhYdjFmcmZzK3BZajhDa2dpUVRXOU1RclBxM3hXSFI3bytwSjZBK0NzeHBTSlJ1SFFPR3ZKejVkRmMvY3pvckVjTkwzd1ByYVBIQWxaZ2FDVnArOGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NDE0Mjg5CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjEuOV94NjQtc2V0dXAuZXhlCkNNblVEUlVhM29lbkI3THVid2RBZHRHMzdlZlhCZXl4SmhkWUgvaFRXTStScUprN3lUZDhtU0FISVltam0xQ0lHTjQwSjE4NWppSVlheE4xa0N2Z0F3PT0K",
+            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.1.9/Cyberking_Server_0.1.9_x64-setup.exe"
         }
     }
 }
