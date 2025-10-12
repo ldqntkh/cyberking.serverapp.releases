@@ -3,7 +3,7 @@
     "notes": "Fix some bugs and improve performance.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFMwNG5nb1FHQ1VjejdEWXc4dHhDUUF2UVJ4U1YvL2NTVG0yQTV2Qjd5dzhVQ1JQa3lzanEvK1hJZ3hMb0RINElKZXkyTi94NHp3WkFrZG5qYWNJREE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc5MjgxCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjIuMF94NjQtc2V0dXAuZXhlCm15THU4REUyU1lIRGRQdjU3UWpsbzgzNzFaTVB1QW1VRlZkOElWMExGMkxuNTRMNkVSY0t6Yi90QXp3MGVOY2dMQzc1K1NrTVNXYWJUeDhLcEdVS0NBPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFVOOUdzeDhtc3F6cDNQZ1lwT1o5dVVjNXdvb1MvSXc1d1hScTJIbENlT25jWTNtZnJVRFJEQUFYck90clJKK2QwdnZVVzl6M2Yva3IvNFd4c2ZiZ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc5NTUyCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjIuMF94NjQtc2V0dXAuZXhlCmE4TVJkcFJ0dFI4TytZTjFlNmpoOVdTTExrY0l0bmppRGF0TzV0S0tYRllBR1E2blRJQTRMcUlqcndBS3hWQmIxWXpHSGNYV3dSUXBhT05NYTJQYkJRPT0K",
             "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.2.0/Cyberking_Server_0.2.0_x64-setup.exe"
         }
     }
