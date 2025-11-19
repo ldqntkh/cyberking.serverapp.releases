@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
-    "notes": "New feature combo",
+    "version": "0.2.4",
+    "notes": "Fix bug media",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFY2STNMMGx6OXhrQm1HM0l2WFQ1bHBQQUMxaTArWThzOEp5eGYzM1QvYkRwTVFET3AyY25iOG5NUms4ZUZCY0JVM0crMlBNWXZ1bjVYdUJSVEsrVXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDc4MDUyCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjIuM194NjQtc2V0dXAuZXhlCmJnbUZnUUJIeHNhdzd0aDc4eS8zQWdhVnRFQ2RuT2IzY0ZNcEp4MlY2c09USDhkaTBoaEx4UnpYRlkzdTVXb3o4NENOa2s1eHBodUFJT1QxRVRCL0J3PT0K",
-            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.2.3/Cyberking_Server_0.2.3_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGZzdWtBanp5bTJNLzNEc0w0TW1lNzFwa3Nra1VjaDlDS09XVFVlVWQ3K0hpdU9YS3BndE9pc0NjWVZhMUk5Y1pFNEVoaEpDRzBLeW4zeDE0TXVEdmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTY2NDcyCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjIuNF94NjQtc2V0dXAuZXhlCmU0L1VISmxtcE5ybjZkTzloTG9UMmQ3bFdaQVNMNHBZeGlVVGJpdVk1L1dadVhoYlp4YWNmcThPbCtqamdNT1hwTTk5VjB4a3BTMlRiWHZxUjRSU0RRPT0K",
+            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.2.4/Cyberking_Server_0.2.4_x64-setup.exe"
         }
     }
 }
