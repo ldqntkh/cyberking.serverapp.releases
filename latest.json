@@ -1,10 +1,10 @@
 {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "notes": "Update Momo Payment gateway",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGI5eWpTaXFPMnBmVjUxcS9wVURHcVRNKzdaZG05bVBYaklWc2J5RWtzRExzZkh1Q2w0Q3VXOWNzUlNQTk5UQ09yQnNwTlhYYnBnYTFuU0x2VldHbkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjkyMTAyCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjIuN194NjQtc2V0dXAuZXhlCmEyYm1KaTZJV0pNT2lXLzUyTDJGZCtvdkwxRUpFTVBnSTdmZXpHcXcvdEg0WVNEay8xaTJwZ0xkWHdNU2JOVHAwdDQwa0tUVittT2lTNWRQMmtITkFBPT0K",
-            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.2.7/Cyberking_Server_0.2.7_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGJCRHdJL2dDOUZYK29xWmlYVXNjSmZtaFdUVCtFSXVpK0pHYlJ5YlFhMS8weDQ4S29PbXdBR0dQZTBuY3dJcUtqM2Z6NTVBNDJnSDB2OHVEZUZOUkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1Mzc3NDg3CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjIuOF94NjQtc2V0dXAuZXhlCmFkTmNzY3dpUUlsZjFTWm9SYUNUNGxCbjZiSDBPcDNxc2x2MEhTL284cVZrRzVkenBlS0tHbEorS0JiVjcwcElVY3JjWWt0aXQ5bXhzWGd1QlBmRkR3PT0K",
+            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.2.8/Cyberking_Server_0.2.8_x64-setup.exe"
         }
     }
 }
