@@ -1,10 +1,10 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "notes": "Update Payment Qrcode",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGQvMmJxMnRTQVM1OVFhdlFUb3NkV0dkVisvbkFpeGxwM0U5cWJYQjcwRlZxSGViZmMvSUFNbDZCcmJkUjNqYVM2WnpPT1pJR0E4Y2N5aUR3M2s4MUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjQ4NDI3CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuMF94NjQtc2V0dXAuZXhlCnQ5UEZZayt0T28xK1BvTGpFMW52bFc3bXNBYVdjTkZjYjFDM3JHU0FoZGhPbEJ0VHZyaVJrTXh5MW1WenpnKzZDRkpBdGtIVExkcmVDRDJURUlkMER3PT0K",
-            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.0/Cyberking_Server_0.3.0_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGZiVmxwRjFJWHZKbFV5RjhtVG05NFE5M3U1dWQwK2syQ3FPYWg2UEtiRjJOT0N3TFMxSUZqOVBISW53d05aT1FKRjVnckhXZVc3RnlhaERFVFg0bXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MjE2NjEyCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuMV94NjQtc2V0dXAuZXhlCk9aSGdOeVJNOXZVQ0p2SnZHYWJ6dlZrODc1TWZBQlJYeUY5MmpOeWN1N00wTzdROWhWWkkxcUxhVjNjek1CU1hSbDI2d05uV2RDN3NDTmhGa1BqYkNRPT0K",
+            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.1/Cyberking_Server_0.3.1_x64-setup.exe"
         }
     }
 }
