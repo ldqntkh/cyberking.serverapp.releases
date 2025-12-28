@@ -3,7 +3,7 @@
     "notes": "Update features change payment method",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFZEazhGMy84SGpGNVR6YTEzSGwwdjN0UDhhN0Z5UE43NjNRN1Y0d20wK1M3MXJDamcyTHdwY1N6OWVRcGNKaW5lUFVnWWhPSTMvU2t1aHJhQUVRd2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODUyMzg3CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuMl94NjQtc2V0dXAuZXhlCkcxZU5pa3FsYVo3WTRnUTY4RXZlWlI2YUVqS1NNdk9ablhNeGVwSWNTcGtyMEhjZU1NeEE2YU5qbVNBTlViR2UwQ1FXOEJMSFlaU3c1clo1VzdPcEFnPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGRRL1J3aUxuc05HdGpFSEQyRDdKb0R3b1ZBQzZ0RGM0Y1BqeHhmNjlwa0hWdTlMR25aOVhRaU9nU2xYN2VzRENTZ1A3Q0Z1WW85VGRLZkRDTlZWM1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2OTM0NzQxCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuMl94NjQtc2V0dXAuZXhlCmltaEZRVG91L1dqWXBIZ0k1OUw0SjExcCszVjkyWEkrU01GV28zOFlKaDljdHY5aW1OeWdiWUEzVjlTK0lCOHdjazlxcVN5czM5c2lSOTJTNkxqekFnPT0K",
             "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.2/Cyberking_Server_0.3.2_x64-setup.exe"
         }
     }
