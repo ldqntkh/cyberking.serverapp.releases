@@ -1,10 +1,10 @@
 {
-    "version": "0.3.5",
-    "notes": "Update features change payment method",
+    "version": "0.3.6",
+    "notes": "Fix error cart",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGU1UUNuNFM5V0hhbXB3aUl5ZHZYQmNsU2RISi9SYUJicm9sdEFCRjkwajk2QXBacDJCdXc0NUJibDdVTlhiVDFlZ01WSU1leWRNeDh0Q0xRVG4zUndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNjI2MDA3CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuNV94NjQtc2V0dXAuZXhlCjlEY1F4WmR5SmEyVEpRTERqQkNRYzNMMGEzUjBBMDRmb0FKamRlbTNxUVBHWHdSQVNIdElBbHhlUFRMNncyUlkxTnVYT0wxNGFBeVBCV0oxYy9uUER3PT0K",
-            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.5/Cyberking_Server_0.3.5_x64-setup.exe"
+            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.6/Cyberking_Server_0.3.6_x64-setup.exe"
         }
     }
 }
