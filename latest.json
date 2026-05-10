@@ -3,7 +3,7 @@
     "notes": "Fix order handle by admin",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGZqZzQ2Yjh5UW4zQ1ZmcmthR2dBa3VoWGhRL29td05SdGZGbGRMV0g5TEZkZnNQRENLUVdJQTlZMGFaVHNZNDZHME4vWEViREJ6YnQxWWRyV0VOQlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDI3MTA4CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuN194NjQtc2V0dXAuZXhlCms5b3RJZk9FN2pQcFFTbU9kVjR5VVh0aG5aVHZuZGxFYjZ6TkVSUnVNSmF6YjlWTS9DNDZkaU9ublQyZU1UUmRwblAyenNkWEJudG14cXJLVS9SaERBPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURGU3eWZOTHJRRWFucE5LNzErbndhQ3VpYmx3UEdTS3RnQVVDNGRQVENvamRQbWMrYUxaTXhWZm9PQzFJa3Y1c3NCVURzNVBiTlFBeWJpNDBUQ1NiWndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDI4NjY0CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuN194NjQtc2V0dXAuZXhlCnhtay9sSEdBNWM5NUVhd2t6SmV0NjVhSlZWSy9DYXlpcWdvVVp5WEI1SkVFTEpYbTNZcWNVSjcza2dEUG9JdFh2RG5ZNnVtRmtNUTlndHlwd1NnWkJnPT0K",
             "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.7/Cyberking_Server_0.3.7_x64-setup.exe"
         }
     }
