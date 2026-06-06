@@ -1,10 +1,10 @@
 {
-    "version": "0.3.7",
-    "notes": "Fix order handle by admin",
+    "version": "0.3.8",
+    "notes": "Fix active license handling",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFdjSmhlOEtGaER0SzdERHhsUEcxWGFLOG5xa040bHczczFOa1dCa2N0VFdxNld0WGx2ckxZeWpBREYrbzBDVFJTZVJ6b3RQanp3NlBWM1p2blhPakFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzI0NzQ2CWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuN194NjQtc2V0dXAuZXhlCjExdTdhNHkyckx3dDRvVVJmTnQwcWlZQlM1SkgydWp4ZmNjVlpyTlNDQ21Wb0kvdXdURVhjbWxYd2hqdU9KQkpIS2cvbzRZQWY5UFZubjhIZFRHb0NRPT0K",
-            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.7/Cyberking_Server_0.3.7_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUVlqeGpldGNURFRYcXdXZlhoV3BsVkptaUlCczNBeW1yZVdSWDZ2M3pESlp4THJsR25GVC80MUtyTGo5OHhRWnc1UXlhR0dybWRTN1ZFcUF6d2dFaCtVWU9GVUdRTndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzYxOTczCWZpbGU6Q3liZXJraW5nX1NlcnZlcl8wLjMuOF94NjQtc2V0dXAuZXhlCmMvdDFhQXpHcFlhYU56WEU1Y3Fqa3JYUFdWWWVFdG8zR0ZoWXRNU1hKMkFINWpKZjh3Q0NVWnkyelFKanpKbWREdmRjZVY4Y0VnS1VjSEJjWDJ3eEJ3PT0K",
+            "url": "https://github.com/ldqntkh/cyberking.serverapp.releases/releases/download/v0.3.8/Cyberking_Server_0.3.8_x64-setup.exe"
         }
     }
 }
